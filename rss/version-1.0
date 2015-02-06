@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>周五 2月 6 14:02:17 2015</dateModified>
+    </head>
+    <body>
+        <outline text="java">
+            <outline text="夏小草" type="rss" htmlUrl="http://www.dongliu.net" xmlUrl="http://www.dongliu.net/feed"/>
+            <outline text="黄勇" type="rss" htmlUrl="http://my.oschina.net/huangyong" xmlUrl="http://my.oschina.net/huangyong/rss"/>
+            <outline text="李志涛的专栏" type="rss" htmlUrl="http://blog.csdn.net/lizhitao" xmlUrl="http://blog.csdn.net/lizhitao/rss/list"/>
+            <outline text="码梦为生 | 刘锟洋" type="rss" htmlUrl="http://www.liuinsect.com" xmlUrl="http://www.liuinsect.com/feed/"/>
+        </outline>
+        <outline text="大数据">
+            <outline text="董的博客" type="rss" htmlUrl="http://dongxicheng.org" xmlUrl="http://dongxicheng.org/feed/"/>
+            <outline text="鸟窝" type="rss" htmlUrl="" xmlUrl="http://colobu.com/atom.xml"/>
+        </outline>
+    </body>
+</opml>
